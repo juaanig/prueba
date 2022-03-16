@@ -1,0 +1,4 @@
+ |WORD|		|TRANSALATE|
+
+statements  	 declaraciones
+allow  	 	 permitir
