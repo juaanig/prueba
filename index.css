@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 650px;
+    margin: auto;
+    width:700px;
+    height: 100%;
+    border: 1px solid black;    
+}
+
+.card{
+    margin: 0;
+    width:600px;
+    height:250px;
+}
+
+.title-card{
+    display: block;
+    height: 15px;
+    font-size: 10px;
+}
+
+.card img{
+    width:200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.p-card{
+    width: 400px;
+    height: 200px;
+    margin: 0;
+}
+.card-content{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    height: 200px;
+}
