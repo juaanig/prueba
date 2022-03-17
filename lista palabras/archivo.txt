@@ -2,3 +2,8 @@
 
 statements  	 declaraciones
 allow  	 	 permitir
+request  	 solicitud
+response  	 respuesta
+fetch  	         ha podido recuperar
+scope  	 	 alcance
+reach  	 alcanzar
